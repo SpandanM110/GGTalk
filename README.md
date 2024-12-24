@@ -266,7 +266,7 @@ We appreciate fixes, new features, or documentation improvements!
 
 ## License
 
-Unless otherwise stated, **GGTalk** is released under the [MIT License](https://opensource.org/licenses/MIT).  
+ 
 See the [LICENSE](LICENSE) file for details.
 
 ---

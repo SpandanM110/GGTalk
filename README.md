@@ -2,6 +2,9 @@
 
 GGTalk is a **voice-enabled chat application** built with Next.js. It uses **SpeechRecognition** (via [`react-speech-recognition`](https://www.npmjs.com/package/react-speech-recognition)) to convert your spoken words into text, and **Google Generative AI** (Gemini/PaLM API) to generate intelligent, context-aware responses. The application then **speaks** those responses aloud with the Web Speech Synthesis API.
 
+![image](https://github.com/user-attachments/assets/e2d86965-89b3-481f-8311-58f889f3561e)
+
+
 ## Table of Contents
 
 1. [Overview](#overview)  
